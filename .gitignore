@@ -5,6 +5,7 @@ __pycache__/
 
 # Ignore config file
 config.py
+Resources/Crime_Data_from_2020_to_Present.csv
 
 # C extensions
 *.so
