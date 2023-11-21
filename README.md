@@ -29,7 +29,8 @@ The `Resources/` folder contains:
 * Saved config files from the main.ipynb
 * Documenation that provides additional information on how to break down codes from the original dataset.
 
-The raw dataset that was used in our analysis can be found here: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+[The raw dataset that was used in our analysis can be found here](https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+).
 
 # Limitations of our Analysis:
 
