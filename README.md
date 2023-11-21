@@ -1,6 +1,6 @@
 # Los Angeles Crime Trends: A Focus on Identity Theft
 
-In this project we analyzed crime trends from 2020-2022 with a focus on Identity Theft. The data set can be found here: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+In this project we analyzed crime trends from 2020-2022 with a focus on Identity Theft. 
 
 Our analysis contains:
 
