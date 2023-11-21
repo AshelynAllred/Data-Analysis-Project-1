@@ -12,7 +12,10 @@ Our analysis contains:
 
 The main notebook can be found above titled: main.ipynb
 
-Due to the raw dataset being too large for GitHub's file size limit, the data was sliced into separate .CSV files by Year. This can be found in the "Resources" folder above.
+The "Resources" file contains:
+* Sliced CSV files taken from the original dataset due to the file being too latge for GitHug's file size limit
+* Saved config files from the main.ipynb
+* Documenation the provides additional information on how to breakdown codes from the original dataset.
 
 The raw dataset that was used in our analysis can be found here: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 
