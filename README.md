@@ -10,6 +10,27 @@ Our analysis contains:
 
 * A deeper look at Identity Theft Theft crime trends and why we chose to look specifically at Identity Theft.
 
+## Main Contributors
+Ashelyn Allred, Samantha Candia, Julius Mayo
+
+# A Look Inside the Files 
+
+The main notebook can be found above titled: `main.ipynb`
+
+The notebook we used to process the raw 205MB CSV with all years is `data_intake.ipynb`  
+(original csv not on github due to file size constraints)
+
+Our presentation can be found in the main folder under the name: `Group Project 1 Presentation.pdf`
+
+Figures used in our presentation may be found in the `Output/` folder. (slight tweaks may have been made after the fact)
+
+The `Resources/` folder contains:
+* Sliced CSV files taken from the original dataset due to the file being too latge for GitHub's file size limit
+* Saved config files from the main.ipynb
+* Documenation that provides additional information on how to break down codes from the original dataset.
+
+The raw dataset that was used in our analysis can be found here: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+
 # Limitations of our Analysis:
 
 * Only looking at reported crimes (not looking at outcome of crimes)
@@ -28,17 +49,3 @@ Our analysis contains:
   -Data existed from 2023, but we excluded it from our scope
 
   -We wanted full years only
-
-
-# A Look Inside the Files 
-
-The main notebook can be found above titled: main.ipynb
-
-The "Resources" file contains:
-* Sliced CSV files taken from the original dataset due to the file being too latge for GitHub's file size limit
-* Saved config files from the main.ipynb
-* Documenation the provides additional information on how to breakdown codes from the original dataset.
-
-The raw dataset that was used in our analysis can be found here: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
-
-
