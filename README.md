@@ -12,13 +12,13 @@ Our analysis contains:
 
 # Limitations of our Analysis:
 
-*Only looking at reported crimes (not looking at outcome of crimes)
+* Only looking at reported crimes (not looking at outcome of crimes)
 
-*Only looking at data for the city of Los Angeles, CA
+* Only looking at data for the city of Los Angeles, CA
 
   -Trends may differ across cities, states, and countries
 
-*Our analysis on Identity Theft only takes into account records that have Identity Theft listed as the main crime.
+* Our analysis on Identity Theft only takes into account records that have Identity Theft listed as the main crime.
 
   -There were multiple crime codes possible for a given incident
   
