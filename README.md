@@ -15,11 +15,14 @@ Our analysis contains:
 *Only looking at reported crimes (not looking at outcome of crimes)
 
 *Only looking at data for the city of Los Angeles, CA
--Trends may differ across cities, states, and countries
+
+  -Trends may differ across cities, states, and countries
 
 *Our analysis on Identity Theft only takes into account records that have Identity Theft listed as the main crime.
--There were multiple crime codes possible for a given incident
--Crimes were listed in descending order of severity, so we are only looking at the ‘main’ crime
+
+  -There were multiple crime codes possible for a given incident
+  
+  -Crimes were listed in descending order of severity, so we are only looking at the ‘main’ crime
 
 
 The main notebook can be found above titled: main.ipynb
