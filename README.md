@@ -8,10 +8,12 @@ Our analysis contains:
 
 * Year over Year crime trends of the most and least reported crimes of 2020-2022.
 
-* A deeper look at Identity Theft theft crime trends and why we chose to look specifically at Identity Theft theft.
+* A deeper look at Identity Theft Theft crime trends and why we chose to look specifically at Identity Theft.
 
 The main notebook can be found above titled: main.ipynb
 
+Due to the raw dataset being too large for GitHub's file size limit, the data was sliced into separate .CSV files by Year. This can be found in the "Resources" folder above.
+
 The raw dataset that was used in our analysis can be found here: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 
-Due to the raw dataset being too large for GitHub's file size limit, the data was sliced into separate .CSV files by Year. This can be found in the "Resources" folder above.
+
