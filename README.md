@@ -23,12 +23,19 @@ Our analysis contains:
   -There were multiple crime codes possible for a given incident
   
   -Crimes were listed in descending order of severity, so we are only looking at the ‘main’ crime
+* Analysis was done within the years of 2020 to 2022
 
+  -Data existed from 2023, but we excluded it from our scope
+
+  -We wanted full years only
+
+
+# A Look Inside the Files 
 
 The main notebook can be found above titled: main.ipynb
 
 The "Resources" file contains:
-* Sliced CSV files taken from the original dataset due to the file being too latge for GitHug's file size limit
+* Sliced CSV files taken from the original dataset due to the file being too latge for GitHub's file size limit
 * Saved config files from the main.ipynb
 * Documenation the provides additional information on how to breakdown codes from the original dataset.
 
